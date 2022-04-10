@@ -13,7 +13,7 @@ public class Solution {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int[] tablica = new int[20];
         for (int i = 0; i < tablica.length; i++) {
-            tablica[i] = Integer.parseInt(reader.readLine());
+            tablica[i] = i;
         }
 
         sortuj(tablica);
