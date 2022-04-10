@@ -41,7 +41,7 @@ public class Solution {
 
     }
 
-    // Metoda porównywania ciągów: 'a' jest większe niż 'b'dsfsdfsd
+    // Metoda porównywania ciągów: 'a' jest większe niż 'b'
     public static boolean isWiekszeOd(String a, String b) {
         return a.compareTo(b) > 0;
     }
