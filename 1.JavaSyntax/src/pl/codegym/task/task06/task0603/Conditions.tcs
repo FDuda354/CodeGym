@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task06.task0603"\n\nObiekty klasy Kot i Pies: w każdej po 50000
+
+Utw&oacute;rz po 50000 obiekt&oacute;w w klasach Kot i Pies w pętli.
+(Maszyna Java powinna zacząć niszczyć nieużywane obiekty, a metoda finalize powinna zostać wywołana przynajmniej raz).
+
+
+Требования:
+1.	Klasa Kot musi mieć metodę void finalize.
+2.	Klasa Pies musi mieć metodę void finalize.
+3.	Metoda finalize klasy Kot powinna wyświetlać &quot;Kot został zniszczony&quot;.
+4.	Metoda finalize klasy Pies powinna wyświetlać &quot;Pies został zniszczony&quot;.
+5.	Metoda main musi tworzyć 50000 obiekt&oacute;w klasy Kot i 50000 obiekt&oacute;w klasy Pies.
+
+

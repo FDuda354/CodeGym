@@ -1,0 +1,23 @@
+taskKey="pl.codegym.task.task07.task0724"\n\nSpis członków rodziny
+
+Utw&oacute;rz klasę Ludzie, zawierającą pola String imie, boolean plec, int wiek, Ludzie ojciec i Ludzie matka. Utw&oacute;rz i zapełnij obiekty tak, aby otrzymać: dw&oacute;ch dziadk&oacute;w, dwie babcie, jednego ojca, jedną matkę i troje dzieci. Wyświetl te obiekty na ekranie.
+
+Uwaga:
+Jeśli napiszesz swoją własną metodę String toString() w klasie Ludzie , to będzie ona używana do wyświetlenia obiekt&oacute;w na ekranie.
+
+Przykładowy wynik:
+Imie: Anna, plec: kobieta, wiek: 21, ojciec: Piotr, matka: Kasia
+Imie: Kasia, plec: kobieta, wiek: 55
+Imie: Benek, plec: mezczyzna, wiek: 2, ojciec: Maciej, matka: Anna
+&hellip;
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Dodaj poniższe pola do klasy Ludzie: String imie, boolean plec, int wiek, Ludzie ojciec i Ludzie matka.
+3.	Dodaj konstruktor: public Ludzie(String imie, boolean plec, int wiek).
+4.	Dodaj konstruktor: public Ludzie(String imie, boolean plec, int wiek, Ludzie ojciec, Ludzie matka).
+5.	Utw&oacute;rz 9 r&oacute;żnych obiekt&oacute;w Ludzie (4 obiekty bez ojca i matki oraz 5 obiekt&oacute;w z nimi).
+6.	Wyświetl wszystkie utworzone obiekty na ekranie.
+
+

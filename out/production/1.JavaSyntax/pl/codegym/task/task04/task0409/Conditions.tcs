@@ -1,0 +1,17 @@
+taskKey="pl.codegym.task.task04.task0409"\n\nNajbliżej 10
+
+Napisz metodę wyswietlNajblizszaDziesiatce. Metoda powinna wyświetlać argument, kt&oacute;ry znajduje się najbliżej 10.
+Na przykład z liczb 8 i 11, 11 jest najbliżej 10. Jeśli obie liczby są r&oacute;wnie blisko 10, to wyświetli się kt&oacute;rakolwiek z nich.
+
+Wskaz&oacute;wka:
+użyj metody public static int abs(int a) , kt&oacute;ra zwr&oacute;ci wartość bezwzględną liczby.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda main powinna wywoływać metodę wyswietlNajblizszaDziesiatce.
+4.	Metoda wyswietlNajblizszaDziesiatce powinna wywoływać metodę abs.
+5.	Metoda wyswietlNajblizszaDziesiatce powinna wyświetlać na ekranie liczbę zgodnie z warunkami zadania.
+
+

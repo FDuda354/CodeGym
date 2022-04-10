@@ -1,0 +1,19 @@
+taskKey="pl.codegym.task.task06.task0611"\n\nKlasa StringHelper
+
+Utw&oacute;rz klasę StringHelper, kt&oacute;ra będzie miała 2 metody statyczne:
+String multiply(String s, int licznik) - zwraca ciąg, kt&oacute;ry jest powtarzany określoną przez wartość zmiennej licznik liczbę razy.
+String multiply(String s) - zwraca ciąg, kt&oacute;ry jest powtarzany 5 razy.
+
+Na przykład:
+Amigo -&gt; AmigoAmigoAmigoAmigoAmigo
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Metoda klasy StringHelper musi zwracać ciąg.
+3.	Metoda klasy StringHelper musi być statyczna.
+4.	Metoda klasy StringHelper musi być publiczna.
+5.	Metoda multiply(String s, int licznik) musi zwracać ciąg, kt&oacute;ry jest powtarzany określoną przez wartość zmiennej licznik liczbę razy.
+6.	Metoda multiply(String s) musi zwracać ciąg, kt&oacute;ry jest powtarzany 5 razy.
+
+

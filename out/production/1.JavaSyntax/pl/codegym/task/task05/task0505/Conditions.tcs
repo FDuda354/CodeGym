@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task05.task0505"\n\nKocia jatka
+
+Użyj klasy Kot, aby utworzyć trzy koty.
+Przeprowadź trzy bitwy między parami kot&oacute;w.
+Nie musisz tworzyć klasy Kot ponownie. W celu przeprowadzenia bitwy użyj metody boolean walka(Kot innyKot).
+Wynik każdej bitwy wyświetl na ekranie w nowej linii.
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Musisz utworzyć trzy obiekty klasy Kot.
+3.	Musisz przeprowadzić trzy walki.
+4.	Program powinien wyświetlać wynik każdej bitwy w nowej linii.
+
+

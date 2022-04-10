@@ -1,0 +1,12 @@
+taskKey="pl.codegym.task.task06.task0620"\n\nNaprawianie błędów młodości
+
+Zadanie: Program czyta dwie liczby z klawiatury i wyświetla ich maksimum, używając sformułowania &quot;Maksimum to 25&quot;.
+
+
+Требования:
+1.	Program musi odczytywać dane z klawiatury.
+2.	Program powinien wyświetlać wynik na ekranie.
+3.	Wyświetlony tekst powinien zaczynać się od &quot;Maksimum to&quot;.
+4.	Na końcu wyświetlanego tekstu powinno znajdować się maksimum spośr&oacute;d 2 liczb.
+
+

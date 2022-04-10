@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task05.task0501"\n\nTworzenie kota
+
+Utw&oacute;rz klasę Kot. Kot musi mieć: String imie, int wiek, int waga i int sila.
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Klasa Kot musi mieć zmienną imie typu String.
+3.	Klasa Kot musi mieć zmienną wiek typu int.
+4.	Klasa Kot musi mieć zmienną waga typu int.
+5.	Klasa Kot musi mieć zmienną sila typu int.
+6.	W klasie muszą być 4 zmienne.
+
+

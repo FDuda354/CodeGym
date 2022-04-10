@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task04.task0401"\n\nTen wiek źle na mnie działa...
+
+Pomyśl o tym, co ten program robi.
+Napraw błąd w programie, tak aby pole wiek obiektu osoba zmieniało wartość.
+
+Wskaz&oacute;wka:
+przejrzyj dokładnie metodę dostosujWiek.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Klasa Osoba powinna posiadać pole publiczne typu int o nazwie wiek.
+3.	Metoda dostosujWiek klasy Osoba powinna wyświetlać tekst na ekranie.
+4.	Metoda dostosujWiek klasy Osoba powinna mieć tylko jeden parametr typu int nazwany wiek i metoda musi być void.
+5.	Metoda main powinna wywoływać metodę dostosujWiek tylko raz.
+6.	Metoda dostosujWiek klasy Osoba powinna zwiększać wiek osoby o 20.
+
+

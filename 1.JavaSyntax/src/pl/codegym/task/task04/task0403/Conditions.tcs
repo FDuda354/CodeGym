@@ -1,0 +1,12 @@
+taskKey="pl.codegym.task.task04.task0403"\n\nJak ten kot ma na imię?
+
+Pom&oacute;ż kotkowi i nadaj mu imię, używając metody setImie.
+
+
+Требования:
+1.	W klasie Kot może być tylko jedna zmienna o nazwie imie.
+2.	Zmienna musi być typu String i mieć modyfikator dostępu prywatnego.
+3.	Klasa Kot musi mieć tylko dwie metody: setImie i main.
+4.	Metoda setImie klasy Kot musi ustawiać wartość nazwy zmiennej private String jako przekazaną nazwę argumentu String.
+
+

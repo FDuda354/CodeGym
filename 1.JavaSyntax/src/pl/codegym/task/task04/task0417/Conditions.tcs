@@ -1,0 +1,29 @@
+taskKey="pl.codegym.task.task04.task0417"\n\nMasz parę?
+
+Użyj klawiatury, aby wprowadzić trzy liczby całkowite. Określ, czy jest wśr&oacute;d nich przynajmniej jedna para takich samych liczb.
+Jeśli taka para istnieje, wyświetl te liczby rozdzielone spacją.
+Jeśli wszystkie trzy liczby są identyczne, wyświetl wszystkie trzy.
+Oto kilka przykład&oacute;w:
+a) jeśli wprowadzisz liczby
+1
+2
+2
+to wyświetlimy
+2 2
+
+b) jeśli wprowadzisz liczby
+2
+2
+2
+to wyświetlimy
+2 2 2
+
+
+Требования:
+1.	Program powinien czytać liczby z klawiatury.
+2.	Program powinien zawierać polecenia System.out.println() lub System.out.print().
+3.	Jeśli dwie liczby są identyczne, musisz wyświetlić je na ekranie.
+4.	Jeśli wszystkie trzy liczby są identyczne, wyświetl wszystkie trzy.
+5.	Jeśli nie ma identycznych liczb, nic nie wyświetlaj.
+
+

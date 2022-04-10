@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task04.task0406"\n\nRejestr imion
+
+Napisz kod metody setImie, tak aby ustalała wartość private String imieInazwisko jako wartość zmiennej lokalnej String imieInazwisko.
+
+
+Требования:
+1.	W klasie Kot może być tylko jedna zmienna o nazwie imieInazwisko.
+2.	Zmienna imieInazwisko musi być typu String i mieć modyfikator dostępu prywatny.
+3.	Klasa Kot musi mieć tylko dwie metody: setImie i main.
+4.	Metoda setImie musi mieć zmienną lokalną imieInazwisko.
+5.	Metoda setImie klasy Kot musi ustawiać wartość globalnej zmiennej prywatnej String jako zmienną lokalną imieInazwisko.
+
+

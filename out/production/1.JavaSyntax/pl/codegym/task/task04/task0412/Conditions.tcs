@@ -1,0 +1,17 @@
+taskKey="pl.codegym.task.task04.task0412"\n\nLiczby dodatnie i ujemne
+
+Użyj klawiatury, aby wprowadzić liczbę.
+Jeśli liczba jest dodatnia, to ją podw&oacute;j.
+Jeśli liczba jest ujemna, dodaj jeden.
+Jeśli wprowadzona liczba to zero, wyświetl zero.
+Wyświetl wynik na ekranie.
+
+
+Требования:
+1.	Program powinien odczytywać liczbę z klawiatury.
+2.	Program musi wyświetlać liczbę na ekranie.
+3.	Jeśli wprowadzona liczba jest dodatnia, podw&oacute;j ją i wyświetl wynik.
+4.	Jeśli wprowadzona liczba jest ujemna, zwiększ ją o 1 i wyświetl wynik.
+5.	Jeśli wprowadzona liczba to zero, wyświetl zero.
+
+

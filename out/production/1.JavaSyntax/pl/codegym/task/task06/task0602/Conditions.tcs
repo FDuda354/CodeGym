@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task06.task0602"\n\nKoty zombie, psy zombie
+
+W każdej klasie (Kot i Pies) napisz metodę finalize, kt&oacute;ra wyświetla tekst o zniszczeniu konkretnego obiektu.
+
+
+Требования:
+1.	Klasa Kot musi mieć metodę void finalize.
+2.	Klasa Pies musi mieć metodę void finalize.
+3.	Klasy Kot i Pies nie mogą mieć konstruktor&oacute;w lub muszą mieć konstruktory bez parametr&oacute;w.
+4.	Metoda finalize klasy Kot powinna wyświetlać &quot;Kot został zniszczony&quot;.
+5.	Metoda finalize klasy Pies powinna wyświetlać &quot;Pies został zniszczony&quot;.
+
+

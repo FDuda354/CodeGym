@@ -1,0 +1,12 @@
+taskKey="pl.codegym.task.task04.task0405"\n\nUstalanie liczby kotów
+
+Napisz metodę setLicznikKotow. Metoda musi ustalać liczbę kot&oacute;w (licznikKotow).
+
+
+Требования:
+1.	Klasa Kot musi mieć tylko jedną zmienną licznikKotow.
+2.	Zmienna licznikKotow musi być statyczna i typu int, mieć modyfikator dostępu prywatny i być zainicjowana wartością zero.
+3.	Klasa Kot musi mieć dwie metody: setLicznikKotow i main.
+4.	Metoda setLicznikKotow klasy Kot musi ustawiać wartość zmiennej licznikKotow jako przekazany argument.
+
+

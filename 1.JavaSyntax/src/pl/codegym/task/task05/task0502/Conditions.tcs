@@ -1,0 +1,21 @@
+taskKey="pl.codegym.task.task05.task0502"\n\nZaimplementuj metodę walka
+
+Zaimplementuj metodę boolean walka(Kot innyKot):
+zaimplementuj mechanizm, zgodnie z kt&oacute;rym koty będą walczyć w oparciu o takie cechy, jak waga, wiek i siła.
+Możesz sam/a zadecydować, jaka będzie rola danej kociej cechy w walce.
+Metoda powinna określać, czy walka jest wygrana bądź nie, np. zwracać true, jeśli wygrywamy, a jeśli nie &ndash; false.
+
+Musi zostać spełniony poniższy warunek:
+jeśli kot1.walka(kot2) zwraca true,
+to kot2.walka(kot1) musi zwr&oacute;cić false
+
+
+Требования:
+1.	Klasa Kot musi mieć konstruktor bez parametr&oacute;w.
+2.	Klasa Kot musi zawierać pola publiczne o nazwach wiek, waga i sila.
+3.	Klasa Kot musi mieć metodę walka.
+4.	W metodzie walka zaimplementuj mechanizm, kt&oacute;ry sprawi, że o wynikach walk między kotami będą decydowały wartości ich wagi, wieku i siły.
+5.	Za każdym razem, gdy walczymy z tym samym kotem, metoda powinna zwracać tę samą wartość.
+6.	Jeśli kot1 pokonuje kot2, to kot2 musi przegrywać z kot1.
+
+

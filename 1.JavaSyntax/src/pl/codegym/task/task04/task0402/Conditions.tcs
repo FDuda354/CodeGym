@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task04.task0402"\n\nCena jabłek
+
+Oblicz całkowity koszt jabłek.
+Całkowity koszt jabłek odpowiada public static int cenaJablek.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda podniesCene klasy Jablko nie powinna wyświetlać tekstu na ekranie.
+3.	Zmienna cenaJablek klasy Jablko musi być static int i zostać zainicjowana z zerową wartością.
+4.	Metoda main powinna wywoływać metodę podniesCene tylko dwa razy.
+5.	Metoda podniesCene klasy Jablko powinna zwiększać koszt jabłek o przekazaną wartość.
+
+

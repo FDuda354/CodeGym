@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task06.task0612"\n\nKalkulator
+
+Utw&oacute;rz klasę Kalkulator, kt&oacute;ra będzie miała 5 metod statycznych:
+int plus(int a, int b) - zwraca sumę a i b
+int minus(int a, int b) - zwraca r&oacute;żnicę pomiędzy a i b
+int multiply(int a, int b) - zwraca wynik mnożenia a przez b
+double divide(int a, int b) - zwraca wynik dzielenia a przez b
+double percent(int a, int b) - zwraca b procent z liczby a
+
+
+Требования:
+1.	Metoda plus musi zwracać sumę a i b.
+2.	Metoda minus musi zwracać r&oacute;żnicę między a i b.
+3.	Metoda multiply musi zwracać iloczyn z liczb a i b.
+4.	Metoda divide musi zwracać iloraz a przez b.
+5.	Metoda percent musi zwracać b procent z liczby a.
+
+

@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task05.task0503"\n\nGettery i settery dla klasy Pies
+
+Utw&oacute;rz klasę Pies. Pies powinien mieć String imie i int wiek.
+Utw&oacute;rz gettery i settery dla wszystkich zmiennych klasy Pies.
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Klasa Pies musi mieć zmienną imie typu String.
+3.	Klasa Pies musi mieć zmienną wiek typu int.
+4.	Klasa musi mieć setter dla zmiennej imie.
+5.	Klasa musi mieć getter dla zmiennej imie.
+6.	Klasa musi mieć setter dla zmiennej wiek.
+7.	Klasa musi mieć getter dla zmiennej wiek.
+
+

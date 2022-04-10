@@ -1,0 +1,15 @@
+taskKey="pl.codegym.task.task06.task0613"\n\nKot i statyczne
+
+W klasie Kot utw&oacute;rz publiczną, statyczną zmienną licznikKotow typu int.
+Zadeklaruj konstruktor, tj. public Kot(). Za każdym razem, gdy tworzymy nowego kota (nowy obiekt klasy Kot),
+zwiększaj zmienną statyczną licznikKotow o 1. Utw&oacute;rz 10 obiekt&oacute;w Kot i wyświetl wartość zmiennej licznikKotow na ekranie.
+
+
+Требования:
+1.	W klasie Kot utw&oacute;rz publiczną, statyczną zmienną licznikKotow typu int.
+2.	W klasie Kot zadeklaruj konstruktor public Kot() bez parametr&oacute;w.
+3.	Konstruktor musi zwiększać wartość zmiennej statycznej licznikKotow o 1.
+4.	W metodzie main utw&oacute;rz 10 kot&oacute;w.
+5.	W metodzie main, po utworzeniu kot&oacute;w, wyświetl wartość zmiennej licznikKotow.
+
+

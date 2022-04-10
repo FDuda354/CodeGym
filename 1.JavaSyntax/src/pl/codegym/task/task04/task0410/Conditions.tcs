@@ -1,0 +1,20 @@
+taskKey="pl.codegym.task.task04.task0410"\n\nŚmiało, szczęśliwa siódemko!
+
+Napisz metodę sprawdzPrzedzial. Metoda sprawdza, czy liczba całkowita znajduje się w przedziale od 50 do 100 i wyświetla na ekranie
+następujący wynik: &bdquo;Liczba a nie znajduje się w tym przedziale.&rdquo; lub &bdquo;Liczba a znajduje się w tym przedziale.&rdquo;, gdzie a jest argumentem metody.
+
+Przykład dla 112:
+Liczba 112 nie znajduje się w tym przedziale.
+
+Przykład dla 60:
+Liczba 60 znajduje się w tym przedziale.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda main musi wywoływać metodę sprawdzPrzedzial.
+4.	Metoda sprawdzPrzedzial musi być statyczna i void.
+5.	Metoda sprawdzPrzedzial powinna wyświetlać tekst na ekranie zgodnie z warunkami zadania.
+
+

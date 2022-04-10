@@ -1,0 +1,22 @@
+taskKey="pl.codegym.task.task07.task0723"\n\nOdliczanie
+
+Napisz program, kt&oacute;ry odlicza od 30 do 0, a potem wyświetla &quot;Bum!&quot;.
+Program powinien przeprowadzać odliczanie 10 razy na sekundę. Aby dodać do niego op&oacute;źnienie, użyj:
+Thread.sleep(100); // Op&oacute;źnia o jedną dziesiątą sekundy.
+
+Na przykład:
+30
+29
+&hellip;
+1
+0
+Bum!
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Program powinien wyświetlać odliczanie od 30 do 0. Każdą liczbę w nowej linii.
+3.	Program powinien wyświetlać &quot;Bum!&quot; po odliczeniu.
+4.	Program powinien używać &quot;Thread.sleep (100);&quot; 31 razy.
+
+

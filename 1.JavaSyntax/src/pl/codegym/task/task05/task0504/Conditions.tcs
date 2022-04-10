@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task05.task0504"\n\nTrzej Muszkoterowie
+
+W metodzie main utw&oacute;rz trzy obiekty klasy Kot i zapełnij je danymi.
+Użyj klasy Kot z pierwszego zadania. Nie musisz tworzyć klasy Kot ponownie.
+
+
+Требования:
+1.	Program nie może wczytywać danych z klawiatury.
+2.	Musisz utworzyć trzy obiekty klasy Kot.
+3.	Nie zmieniaj klasy Kot.
+4.	Program nie powinien wyświetlać danych na ekranie.
+
+

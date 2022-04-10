@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task04.task0404"\n\nRejestr kota
+
+Napisz kod w metodzie dodajNowegoKota, aby zwiększyć liczbę kot&oacute;w o 1 za każdym razem, gdy metoda ta jest wywoływana.
+Zmienna licznikKotow odpowiada liczbie kot&oacute;w.
+
+
+Требования:
+1.	Klasa Kot musi mieć tylko jedną zmienną licznikKotow.
+2.	Zmienna licznikKotow musi być statyczna i typu int, mieć modyfikator dostępu prywatny i być zainicjowana wartością zero.
+3.	Klasa Kot musi mieć dwie metody: dodajNowegoKota i main.
+4.	Metoda dodajNowegoKota musi zwiększać liczbę kot&oacute;w o 1.
+
+

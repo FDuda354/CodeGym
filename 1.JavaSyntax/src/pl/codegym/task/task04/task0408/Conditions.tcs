@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task04.task0408"\n\nDobry czy zły?
+
+Napisz metodę porownaj(int a), tak aby:
+- wyświetlała &quot;Liczba jest mniejsza niż 5&quot;, jeśli argument metody jest mniejszy niż 5,
+- wyświetlała &quot;Liczba jest większa niż 5&quot;, jeśli argument metody jest większy niż 5,
+- wyświetlała &quot;Liczba jest r&oacute;wna 5&quot;, jeśli argument metody jest r&oacute;wny 5.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda main nie powinna wywoływać System.out.println ani System.out.print.
+3.	Metoda main powinna wywoływać metodę porownaj.
+4.	Metoda poownaj musi być void.
+5.	Metoda porownaj powinna wyświetlać tekst na ekranie zgodnie z warunkami zadania.
+
+

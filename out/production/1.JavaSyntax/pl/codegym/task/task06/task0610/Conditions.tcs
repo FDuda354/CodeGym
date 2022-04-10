@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task06.task0610"\n\nKlasa ConsoleReader
+
+Utw&oacute;rz klasę ConsoleReader, kt&oacute;ra będzie miała 4 metody statyczne:
+String readString() - czyta ciąg z klawiatury
+int readInt() - czyta liczbę z klawiatury
+double readDouble() - czyta liczbę ułamkową z klawiatury
+boolean readBoolean() - czyta ciąg &quot;true&quot; lub &quot;false&quot; z klawiatury i zwraca odpowiednią wartość boolean (true lub false)
+
+Proszę zauważyć: W każdej metodzie utw&oacute;rz zmienną, aby czytać dane z konsoli (BufferedReader lub Scanner).
+
+
+Требования:
+1.	Metoda readString musi czytać i zwracać String.
+2.	Metoda readInt musi czytać i zwracać int.
+3.	Metoda readDouble musi czytać i zwracać double.
+4.	Metoda readBoolean musi czytać i zwracać wartość boolean.
+
+
