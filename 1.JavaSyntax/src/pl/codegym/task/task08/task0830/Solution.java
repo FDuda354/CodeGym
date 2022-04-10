@@ -37,11 +37,11 @@ public class Solution {
             }
             tablica[j + 1] = tmp;
         }
-
+//sdada
 
     }
 
-    // Metoda porównywania ciągów: 'a' jest większe niż 'b' sdsaddsa
+    // Metoda porównywania ciągów: 'a' jest większe niż 'b'
     public static boolean isWiekszeOd(String a, String b) {
         return a.compareTo(b) > 0;
     }
