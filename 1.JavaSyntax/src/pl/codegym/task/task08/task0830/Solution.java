@@ -37,7 +37,7 @@ public class Solution {
             }
             tablica[j + 1] = tmp;
         }
-//sdada
+
 
     }
 
