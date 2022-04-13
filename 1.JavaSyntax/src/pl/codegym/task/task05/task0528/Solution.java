@@ -12,7 +12,7 @@ import java.util.Date;
 public class Solution {
     public static void main(String[] args) {
         //tutaj wpisz swój kod
-        SimpleDateFormat data = new SimpleDateFormat("MM dd yyyy");
+        SimpleDateFormat data = new SimpleDateFormat("MMMM dd yyyy");
         System.out.println(data.format(new Date()));
     }
 }

@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task02.task0210"\n\nSubiektywna rzeczywistość
+
+Napisz program, kt&oacute;ry wyświetla: &bdquo;Jeśli będziesz źle programować, przyjdzie Java i zje Twoją pamięć&rdquo;.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Tekst powinien zaczynać się od &quot;Jeśli będziesz&quot;.
+3.	Tekst powinien kończyć się na &quot;pamięć&quot;.
+4.	Tekst powinien mieć 65 znak&oacute;w, łącznie ze spacjami i znakami interpunkcyjnymi.
+5.	Wyświetlany tekst musi spełniać warunki zadania.
+
+
