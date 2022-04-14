@@ -11,13 +11,13 @@ Korekta potrzebna natychmiast
 */
 
 public class Solution {
-    HashMap<int, String> mapa;
+    HashMap<Integer, String> mapa;
     static Integer indeks;
     static String imie;
 
     public Solution() {
-        this.mapa = new HashMap<int, String>();
-        mapa.put(indeks, imie);
+        this.mapa = new HashMap<Integer, String>();
+
     }
 
     public static void main(String[] args) throws IOException {
@@ -30,7 +30,7 @@ public class Solution {
             solution.mapa.put(indeks, imie);
         }
 
-        for (Map.Entry<int, String> para : solution.mapa.entrySet()) {
+        for (Map.Entry<Integer, String> para : solution.mapa.entrySet()) {
             indeks = para.getKey();
             imie = para.getValue();
             System.out.println("Id=" + indeks + " Imię=" + imie);
