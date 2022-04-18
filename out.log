@@ -4466,3 +4466,334 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-04-16 20:43:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-04-16 20:43:43 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2022-04-16 20:43:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-16 20:44:42 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-04-16 20:44:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-16 20:44:45 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-04-18 15:44:49 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-04-18 15:44:49 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-04-18 15:44:50 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-04-18 15:44:50 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-04-18 15:44:50 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-04-18 15:44:50 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-04-18 15:44:50 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-04-18 15:45:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 15:45:04 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 15:45:13 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 15:45:13 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14
+2022-04-18 15:45:13 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1403
+2022-04-18 15:48:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 15:48:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 15:48:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 15:48:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 15:48:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 15:48:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 15:48:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 15:48:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 15:48:50 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 15:48:50 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1404
+2022-04-18 16:02:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:02:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:02:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:03:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:03:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:03:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:06:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:06:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 16:06:28 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 16:06:28 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1405
+2022-04-18 16:11:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:11:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:11:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:11:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:11:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:11:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:11:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:12:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:12:40 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 16:12:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 16:12:41 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1406
+2022-04-18 16:18:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:18:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:18:46 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:18:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:19:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:19:13 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 16:19:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 16:19:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1407
+2022-04-18 16:21:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:21:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:21:40 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 16:21:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 16:27:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 16:27:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 16:28:01 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 16:28:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1408
+2022-04-18 17:01:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:01:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:01:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:03:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:03:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:03:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:05:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:05:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:05:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:06:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:06:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:06:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:07:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:07:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:07:53 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:11:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:11:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 17:11:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 17:11:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1409
+2022-04-18 17:18:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:18:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:18:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:20:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:20:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:20:48 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:22:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:22:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:22:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:25:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:25:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:25:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:25:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:25:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:25:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 17:25:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 17:25:51 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1410
+2022-04-18 17:32:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:32:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:32:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 17:32:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 17:32:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 17:32:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 17:32:19 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 17:32:19 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1411
+2022-04-18 18:01:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:01:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:01:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:02:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:02:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:02:07 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:02:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:02:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:02:25 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:02:32 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:02:32 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1412
+2022-04-18 18:04:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:04:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:04:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:04:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:04:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:04:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:04:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:04:47 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1413
+2022-04-18 18:10:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:10:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:11:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:11:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:11:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:11:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:11:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:11:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1414
+2022-04-18 18:44:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:44:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:44:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:45:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:45:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:45:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:45:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1415
+2022-04-18 18:48:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:48:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:48:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:48:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:49:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:49:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:49:21 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:49:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1416
+2022-04-18 18:55:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:55:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:55:46 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:56:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:56:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:56:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 18:56:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 18:56:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 18:56:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 18:57:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 18:57:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1417
+2022-04-18 19:15:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 19:15:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 19:15:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 19:15:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 19:15:43 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:160)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.ValidateButton.actionPerformed(ValidateButton.java:57)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:178)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.lambda$performAction$0(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:260)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:449)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-04-18 19:15:43 WARN  PluginUtil.getCurrentDirectory(109) - Error while getting the current directory.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:160)
+	at com.homework.plugin.PluginUtil.getCurrentDirectory(PluginUtil.java:107)
+	at com.homework.plugin.button.ValidateButton.actionPerformed(ValidateButton.java:62)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:178)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.lambda$performAction$0(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:260)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:449)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-04-18 19:15:43 WARN  PluginUtil.getCurrentDirectory(109) - Error while getting the current directory.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:160)
+	at com.homework.plugin.PluginUtil.getCurrentDirectory(PluginUtil.java:107)
+	at com.homework.plugin.PluginUtil.getTaskTitle(PluginUtil.java:84)
+	at com.homework.plugin.button.ValidateButton.actionPerformed(ValidateButton.java:85)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:178)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.lambda$performAction$0(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:260)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:154)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:449)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6419)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5029)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2790)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4861)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:891)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:820)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:757)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:447)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:818)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:446)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:805)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:498)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-04-18 19:15:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 19:15:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 19:15:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 19:16:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 19:16:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-04-18 19:16:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-04-18 19:18:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-04-18 19:18:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-04-18 19:18:20 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-04-18 19:18:20 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/filip/IdeaProjects/CodeGymTasks/2.JavaCore/src/pl/codegym/task/task14/task1418

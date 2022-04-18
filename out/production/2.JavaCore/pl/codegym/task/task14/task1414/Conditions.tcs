@@ -1,0 +1,28 @@
+taskKey="pl.codegym.task.task14.task1414"\n\nMovieFactory
+
+Wczytaj z konsoli, aby przedłużyć funkcjonalność przez analogię:
+1. Dowiedz się, co robi program.
+2. Wszystkie klasy muszą znajdować się w klasie Solution.
+3. Dodaj klasy Cartoon i Thriller.
+4. Zrozum, jak można uzyskać obiekt SoapOpera dzięki użyciu klucza &bdquo;soapOpera&rdquo;.
+Zgodnie ze wzorem użytym w celu uzyskania obiektu SoapOpera:
+5. Dodaj do MovieFactory.getMovie zdolność pozyskania obiektu Cartoon przy użyciu klucza &bdquo;cartoon&rdquo;.
+6. Dodaj do MovieFactory.getMovie zdolność pozyskania obiektu Thriller przy użyciu klucza &bdquo;thriller&rdquo;.
+
+7. Wczytaj kilka kluczy (ciąg&oacute;w) z konsoli.
+7.1. Zatrzymaj wczytywanie ciąg&oacute;w w momencie, gdy wprowadzony zostanie ciąg, kt&oacute;ry nie jest zgodny z następującymi: &quot;cartoon&quot;, &quot;thriller&quot;, &quot;soapOpera&quot;.
+8. Utw&oacute;rz zmienną Movie movie i zr&oacute;b to dla każdego wprowadzonego ciągu (klucza):
+8.1. Pobierz obiekt za pomocą MovieFactory.getMovie i przypisz do zmiennej movie.
+8.2. Wyświetl wynik wywoływania movie.getClass().getSimpleName().
+
+
+Требования:
+1.	Klasy Cartoon i Thriller muszą być statyczne i być w środku klasy Solution.
+2.	Metoda MovieFactory.getMovie musi zwracać obiekt Cartoon, jeżeli &quot;cartoon&quot; jest przekazywany jako argument.
+3.	Metoda MovieFactory.getMovie musi zwracać obiekt Thriller, jeżeli &quot;thriller&quot; jest przekazywany jako argument.
+4.	Metoda main musi wczytywać ciągi z klawiatury.
+5.	Metoda main powinna przerwać czytanie ciąg&oacute;w z klawiatury, jeżeli wprowadzony zostanie niepoprawny ciąg (ciąg inny niż &quot;cartoon&quot;, &quot;thriller&quot; czy &quot;soapOpera&quot;).
+6.	Dla każdego wprowadzonego ciągu (w tym ciąg&oacute;w niepoprawnych) należy wywołać metodę MovieFactory.getMovie.
+7.	Dla każdego prawidłowo wprowadzonego ciągu należy wyświetlić prostą nazwę (movie.getClass().getSimpleName()) typ&oacute;w obiekt&oacute;w zwracanych przez metodę MovieFactory.getMovie.
+
+
