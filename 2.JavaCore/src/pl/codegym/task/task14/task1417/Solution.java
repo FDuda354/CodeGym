@@ -1,6 +1,7 @@
 package pl.codegym.task.task14.task1417;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /* 
@@ -15,6 +16,7 @@ public class Solution {
         for (Money money : paul.getAllMoney()) {
             System.out.println(paul.name + " ma schowane " + money.getAmount() + " " + money.getCurrencyName());
         }
+
     }
 
     static class Person {

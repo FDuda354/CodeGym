@@ -1,0 +1,19 @@
+package pl.codegym.task.task15.task1508;
+
+/* 
+OOP: przeciążanie metod - eliminacja zbędnych implementacji
+*/
+
+public class Solution {
+    public static void main(String[] args) {
+        print(1);
+    }
+
+
+
+    public static void print(long l) {
+        System.out.println("Zostanę programistą Javy!");
+    }
+
+}
+
