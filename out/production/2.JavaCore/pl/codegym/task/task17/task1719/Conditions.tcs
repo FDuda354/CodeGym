@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task17.task1719"\n\nApplicationContext
+
+Klasa ApplicationContext będzie dostępna dla wielu wątk&oacute;w.
+Upewnij się, że żadne dane nie zostaną utracone: zastan&oacute;w się, jakie słowo kluczowe należy umieścić i w kt&oacute;rym miejscu.
+
+
+Требования:
+1.	 Klasa ApplicationContext musi być abstrakcyjna.
+2.	 Klasa ApplicationContext musi posiadać prywatne pole Map&lt;String, GenericsBean&gt; o nazwie container.
+3.	 Jeśli to konieczne, użyj synchronized w metodzie getByName(String name) method.
+4.	 Jeśli to konieczne, użyj synchronized w metodzie removeByName(String name).
+
+
