@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task18.task1807"\n\nLiczenie przecinków
+
+Wczytaj nazwę pliku z konsoli.
+Policz liczbę przecink&oacute;w (&#39;,&#39;) w pliku. Wyświetl liczbę.
+Zamknij strumienie.
+Wskaz&oacute;wka:
+Musisz por&oacute;wnać z kodem ASCII dla &#39;,&#39;.
+
+
+Требования:
+1.	Program powinien odczytywać nazwę pliku z konsoli.
+2.	Użyj FileInputStream do odczytu z pliku.
+3.	Program powinien wyświetlać liczbę przecink&oacute;w w odczytywanym pliku.
+4.	Strumień wykorzystywany do odczytu pliku musi zostać zamknięty.
+
+
