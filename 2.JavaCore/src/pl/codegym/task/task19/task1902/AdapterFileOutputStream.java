@@ -4,8 +4,6 @@ package pl.codegym.task.task19.task1902;
 Adapter
 */
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
