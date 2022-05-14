@@ -1,0 +1,17 @@
+taskKey="pl.codegym.task.task20.task2020"\n\nSerializowanie people
+
+Serializuj klasę Person w standardowy spos&oacute;b. W razie potrzeby dodaj modyfikator transient do niekt&oacute;rych p&oacute;l.
+
+
+Требования:
+1.	Klasa Person powinna obsługiwać interfejs Serializable.
+2.	Pole fullName musi być oznaczone modyfikatorem transient.
+3.	Pole greetingString musi być oznaczone modyfikatorem transient.
+4.	Pole outputStream musi być oznaczone modyfikatorem transient.
+5.	Pole logger musi być oznaczone modyfikatorem transient.
+6.	Pole firstName NIE może być oznaczone modyfikatorem transient.
+7.	Pole lastName NIE może być oznaczone modyfikatorem transient.
+8.	Pole country NIE może być oznaczone modyfikatorem transient.
+9.	Pole sex NIE może być oznaczone modyfikatorem transient.
+
+

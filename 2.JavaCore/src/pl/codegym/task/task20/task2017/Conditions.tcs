@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task20.task2017"\n\nDeserializacja
+
+Serializowane obiekty A lub B są zapisywane do przekazywanego strumienia.
+Deserializuj obiekt w metodzie getOriginalObject. Jeśli wystąpi wyjątek, wyświetl komunikat i zwr&oacute;ć wartość null.
+W razie potrzeby zaimplementuj interfejs Serializable.
+
+
+Требования:
+1.	Klasa B musi być obiektem podrzędnym klasy A.
+2.	Klasa A powinna obsługiwać interfejs Serializable.
+3.	Klasa B nie powinna bezpośrednio obsługiwać interfejsu Serializable.
+4.	Metoda getOriginalObject musi zwracać obiekt A otrzymywany z ObjectInputStream.
+5.	Metoda getOriginalObject musi zwracać wartość null, jeżeli podczas pr&oacute;b deserializacji nie zostanie zwr&oacute;cony obiekt A.
+6.	Metoda getOriginalObject musi zwracać wartość null, jeżeli podczas pr&oacute;by deserializacji zostanie wyrzucony wyjątek.
+
+

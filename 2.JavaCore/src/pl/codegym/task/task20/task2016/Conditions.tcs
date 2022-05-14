@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task20.task2016"\n\nMinimalne zmiany
+
+Spraw, aby po wprowadzeniu minimalnych zmian w kodzie, można było serializować klasę C.
+
+
+Требования:
+1.	Klasa Solution musi zawierać klasę A.
+2.	Klasa Solution musi zawierać klasę B.
+3.	Klasa Solution musi zawierać klasę C.
+4.	Klasa B musi być obiektem podrzędnym klasy A.
+5.	Klasa C musi być obiektem podrzędnym klasy B.
+6.	Klasa A powinna obsługiwać interfejs Serializable.
+7.	Klasa B nie powinna bezpośrednio obsługiwać interfejsu Serializable.
+8.	Klasa C nie powinna bezpośrednio obsługiwać interfejsu Serializable.
+
+

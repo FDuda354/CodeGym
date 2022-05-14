@@ -1,0 +1,18 @@
+taskKey="pl.codegym.task.task20.task2018"\n\nZnajdź błędy
+
+Z jakiegoś powodu podczas serializacji/deserializacji obiekt&oacute;w B pojawiają się błędy.
+Znajdź problem i rozwiąż go.
+Klasa A nie powinna implementować interfejs&oacute;w Serializable i Externalizable.
+Nie ma żadnego błędu w sygnaturze klasy B :).
+Nie ma żadnych błęd&oacute;w w metodzie main.
+
+
+Требования:
+1.	Klasa B musi być obiektem podrzędnym klasy A.
+2.	Klasa B powinna obsługiwać interfejs Serializable.
+3.	Klasa A nie powinna obsługiwać interfejsu Serializable.
+4.	Klasa A nie powinna obsługiwać interfejsu Externalizable.
+5.	Program musi działać bez błęd&oacute;w.
+6.	Podczas deserializacji, wartości p&oacute;l nameA i nameB powinny być poprawnie przywr&oacute;cone.
+
+

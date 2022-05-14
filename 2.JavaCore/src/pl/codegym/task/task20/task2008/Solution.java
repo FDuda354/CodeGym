@@ -9,6 +9,8 @@ W jaki sposób serializujesz Singletona?
 public class Solution implements Serializable {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
+
+
         Singleton instance = Singleton.getInstance();
 
         ByteArrayOutputStream byteArrayOutputStream = serializeSingletonInstance(instance);
