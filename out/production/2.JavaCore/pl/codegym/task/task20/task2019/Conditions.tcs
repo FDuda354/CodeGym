@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task20.task2019"\n\nPopraw błąd. Serializacja
+
+Po deserializacji obiektu Solution odkryto, że mapa m nie zawiera żadnych danych :(
+Popraw 1 błąd.
+
+
+Требования:
+1.	Klasa Solution nie powinna posiadać metody Solution typu void bez parametr&oacute;w.
+2.	Klasa Solution powinna posiadać konstruktor bezargumentowy.
+3.	Klasa Solution powinna posiadać metodę size bez parametr&oacute;w.
+4.	Metoda size klasy Solution musi zwracać int.
+
+

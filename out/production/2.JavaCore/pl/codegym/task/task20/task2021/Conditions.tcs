@@ -1,0 +1,14 @@
+taskKey="pl.codegym.task.task20.task2021"\n\nSerializacja jest zabroniona
+
+Blokuj serializację klasy SubSolution za pomocą NotSerializableException.
+Nie zmieniaj sygnatur metody.
+
+
+Требования:
+1.	Klasa Solution powinna obsługiwać interfejs Serializable.
+2.	Klasa SubSolution musi znajdować się wewnątrz klasy Solution.
+3.	Klasa SubSolution musi być obiektem podrzędnym klasy Solution.
+4.	Podczas pr&oacute;by serializacji obiektu SubSolution powinien wystąpić wyjątek NotSerializableException.
+5.	Podczas pr&oacute;by deserializacji obiektu SubSolution powinien wystąpić wyjątek NotSerializableException.
+
+
